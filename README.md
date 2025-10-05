@@ -31,9 +31,7 @@ To run the tests, you need to have [Node.js](https://nodejs.org/) installed. The
    And for "3. E2E testing" exercise, you also need to install Playwright browsers:
 
    ```bash
-   npx playwright install
-   # and probably
-   npx playwright install-deps
+   npx playwright install --with-deps
    ```
 
 2. Run the tests:
