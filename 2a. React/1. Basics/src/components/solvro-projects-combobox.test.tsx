@@ -1,4 +1,4 @@
-import { SolvroProjectsCombobox } from "../src/components/solvro-projects-combobox";
+import { SolvroProjectsCombobox } from "./solvro-projects-combobox";
 import { it, expect, describe } from "vitest";
 import { render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
